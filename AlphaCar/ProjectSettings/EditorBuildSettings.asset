@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: 98a66425e28a80445b152c5b8f0f5a50
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+    guid: 80d503cafd38d3b48bcf40776e5c5ad0
+  - enabled: 1
+    path: Assets/Scenes/Quit.unity
+    guid: c625d5307d4e04e409ea0c3581685916
+  - enabled: 1
+    path: Assets/Scenes/Instractions.unity
+    guid: e260b777a16b9a44aaebf8f5e0b86023
+  - enabled: 1
+    path: Assets/Scenes/AboutAlphaCar.unity
+    guid: a8ebf1c035e1708409eaaaa581a7f628
+  m_configObjects: {}
